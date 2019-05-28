@@ -9,10 +9,6 @@ import java.net.URL;
 
 /**
  * Title:           VideoDown
- * Description:
- * Company:         AceGear
- * Author:          henrywang
- * Date:            2018/4/16
  * JDK:             10
  * Encoding:        UTF-8
  */
